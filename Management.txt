@@ -1,0 +1,11 @@
+ssh aphrodite31135@환경백과사전.site -p 22
+
+cd Wiki
+
+cd openNAMU-beta
+
+python app.py &
+
+Ctrl + C (클릭)
+
+exit
